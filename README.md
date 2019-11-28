@@ -1,1 +1,1 @@
-# Django-Ki-i-Uygulamas-
+# Django-Kisi-Uygulamasi-
